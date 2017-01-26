@@ -6,7 +6,7 @@
     }
     a {
       color: white;
-      text-align: center;
+      text-align: left;
     }
     h1 {
       font-size: 70px;
@@ -80,7 +80,7 @@ font{
 
 body {
     background:rgb(72,133,237);
-  text-align: center;
+  text-align: left;
 
     
 }
