@@ -1,6 +1,6 @@
   header {
       text-align: center;
-      background: url(http://www.clipartkid.com/images/445/clip-art-sunny-day-clip-art-sky-clip-art-blue-sky-clip-art-blue-sky-Q0MsCz-clipart.jpg);
+      background: url(http://previews.123rf.com/images/witthaya/witthaya1211/witthaya121100056/16231357-Pattern-of-wood-frame-carve-flower-on-wood-background-Stock-Photo.jpg);
       background-size: cover;
       color: white;
     }
@@ -79,28 +79,28 @@ font{
 }
 
 body {
-    background:rgb(72,133,237);
+    background:rgb(210,180,140);
   text-align: left;
 
     
 }
 
 p{ 
-    color: yellow;
+    color: black;
 
 }
 
 h1{
 
-    color: red;
+    color: brown;
 }
 
 h2{
 
-    color: limegreen;
+    color: brown;
 }
 
 ul{
 
-    color: yellow;
+    color: black;
 }
